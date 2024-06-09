@@ -3,3 +3,4 @@ Sphinx==5.2.0
 sphinx-autobuild==2021.3.14
 sphinx-rtd-theme==1.0.0
 docutils==0.16
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
